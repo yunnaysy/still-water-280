@@ -18,7 +18,17 @@ export const drafts: Draft[] = [
   {
     id: "slow-reading",
     title: "Slow Reading",
-    text: "You read one word at a time. A mountain does the same: one frost, one thaw, one grain of stone. The mountain has been reading the valley for a million years, and the valley has not once asked to be finished.",
+    text: "You read one word at a time. A mountain does the same: one frost, one thaw, one flake of stone. The mountain has been reading the valley for a million years, and the valley has not once asked to be finished.",
+  },
+  {
+    id: "slow-reading-v3",
+    title: "Slow Reading (previous final)",
+    text: "You read one word at a time. A mountain does the same: one frost, one thaw, one flake of stone. For a million years it has been reading the valley, and the valley has never asked to be finished.",
+  },
+  {
+    id: "slow-reading-v4",
+    title: "Slow Reading (reviewer revision)",
+    text: "You read one word at a time. A mountain reads the valley the same way: one frost, one thaw, one flake of stone. A million years pass. The valley is still there, and the mountain has not reached the end.",
   },
   {
     id: "reading-shore",

@@ -3,7 +3,7 @@ import { join } from "node:path";
 import { pathToFileURL } from "node:url";
 
 export const finalText: string =
-  "You read one word at a time. A mountain does the same: one frost, one thaw, one flake of stone. For a million years it has been reading the valley, and the valley has never asked to be finished.";
+  "You read one word at a time. A mountain reads the valley the same way: one frost, one thaw, one flake of stone. A million years pass. The valley is still there, and the mountain has not reached the end.";
 
 function main(): void {
   const outDir: string = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
